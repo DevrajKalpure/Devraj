@@ -1,7 +1,0 @@
-class {
-<<<<<<< HEAD
-String s;
-=======
-  int a;
->>>>>>> 0da3804e981b6ed8f180be207f1eeb6ecb32c327
-}
